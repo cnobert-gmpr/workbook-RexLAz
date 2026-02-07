@@ -1,0 +1,14 @@
+Zheng Lan Assignment 01 Accomplishments:
+
+Functional Requirements
+
+- Rigidbody2D ball that responds to gravity and interacts correctly with the playfield [2/2]
+- Static colliders that define the playfield boundaries and keep the ball contained [2/2]
+- Death zone below the playfield with remove and respawn behaviour [2/2]
+- At least two bumpers applying impulse with visible feedback [1/1]
+- At least two drop targets that react, disable, and reset [1/1]
+- Paired portal gates that transfer the ball safely [3/3]
+- Freeze field that temporarily immobilizes the ball [0/3]
+- Configurable playfield behaviour [2/3]
+- Scene organization and reuse [2/2]
+- Submission requirements [x/1]
